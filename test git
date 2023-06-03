@@ -1,0 +1,8 @@
+# # install dataprep
+# 1. pip # install dataprep
+# 
+# 2. 
+# from dataprep.eda import create_report
+# report = create_report(data)
+
+# report.save('eda_report') #dengan nama yangdimau
